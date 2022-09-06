@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessDetectImageLabels", "AWSServerlessDetectImageLabels\AWSServerlessDetectImageLabels.csproj", "{D7EB5D28-2187-4313-97DC-89494B7329EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessDetectImageLabels.Tests", "AWSServerlessDetectImageLabels.Tests\AWSServerlessDetectImageLabels.Tests.csproj", "{0146BCE5-BD45-49D4-8C28-DB47EE1AB1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EB5D28-2187-4313-97DC-89494B7329EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EB5D28-2187-4313-97DC-89494B7329EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EB5D28-2187-4313-97DC-89494B7329EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EB5D28-2187-4313-97DC-89494B7329EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0146BCE5-BD45-49D4-8C28-DB47EE1AB1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0146BCE5-BD45-49D4-8C28-DB47EE1AB1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0146BCE5-BD45-49D4-8C28-DB47EE1AB1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0146BCE5-BD45-49D4-8C28-DB47EE1AB1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD99386C-99C2-429A-B9F3-4E1AF59DB4AC}
+	EndGlobalSection
+EndGlobal
